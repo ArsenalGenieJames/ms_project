@@ -1,0 +1,24 @@
+
+  body {
+      background-color: #640003;
+      font-family: "Montserrat", serif;
+      font-optical-sizing: auto;
+      font-weight: <weight>;
+      font-style: normal;
+      
+  }
+ .login-set {
+     background-color: #640003;
+     color: white;
+     cursor: pointer;
+ }
+ .login-set:hover {
+    background-color: #640003;
+ }
+
+ .logcon{
+    padding-right: 0% ;
+    padding-left: 0% ;
+    margin-bottom: -20%;
+ }
+ 
